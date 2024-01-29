@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kodak/static/css/main.92b207ed.css",
+    "main.js": "/kodak/static/js/main.44ea07eb.js",
+    "static/js/787.de0a89a4.chunk.js": "/kodak/static/js/787.de0a89a4.chunk.js",
+    "static/media/Pretendard-Black.woff": "/kodak/static/media/Pretendard-Black.8bad248bdb96c3377cbc.woff",
+    "static/media/Pretendard-ExtraBold.woff": "/kodak/static/media/Pretendard-ExtraBold.88651b953c5d967d1db9.woff",
+    "static/media/Pretendard-Bold.woff": "/kodak/static/media/Pretendard-Bold.dd56301118da9e158ce9.woff",
+    "static/media/Pretendard-SemiBold.woff": "/kodak/static/media/Pretendard-SemiBold.86ffe3f48b7881c55a2c.woff",
+    "static/media/Pretendard-Medium.woff": "/kodak/static/media/Pretendard-Medium.f0cc544dcc84cf9f03b3.woff",
+    "static/media/Pretendard-Light.woff": "/kodak/static/media/Pretendard-Light.d0646c81e7ffb919ebd1.woff",
+    "static/media/Pretendard-Regular.woff": "/kodak/static/media/Pretendard-Regular.21b4bbcb93a4b1214f7d.woff",
+    "static/media/Pretendard-Thin.woff": "/kodak/static/media/Pretendard-Thin.d3e53f3d68cbe18c8f70.woff",
+    "static/media/008_main_slider_06.jpg": "/kodak/static/media/008_main_slider_06.6ce718309ce3d03dad80.jpg",
+    "static/media/003_main_slider_01.jpg": "/kodak/static/media/003_main_slider_01.8c0c5d6ae90c5c723234.jpg",
+    "static/media/007_main_slider_05.jpg": "/kodak/static/media/007_main_slider_05.40e50a6c97f6b9a01ccd.jpg",
+    "static/media/006_main_slider_04.jpg": "/kodak/static/media/006_main_slider_04.6966604b98432c5499aa.jpg",
+    "static/media/005_main_slider_03.jpg": "/kodak/static/media/005_main_slider_03.9e8d0504737be1f0212c.jpg",
+    "static/media/004_main_slider_02.jpg": "/kodak/static/media/004_main_slider_02.d32bbcd609cab2ab90d3.jpg",
+    "static/media/Pretendard-ExtraLight.subset.woff": "/kodak/static/media/Pretendard-ExtraLight.subset.72f42e964f81270c70d7.woff",
+    "static/media/slick.svg": "/kodak/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/kodak/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/kodak/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/kodak/index.html",
+    "static/media/slick.woff": "/kodak/static/media/slick.295183786cd8a1389865.woff",
+    "main.92b207ed.css.map": "/kodak/static/css/main.92b207ed.css.map",
+    "main.44ea07eb.js.map": "/kodak/static/js/main.44ea07eb.js.map",
+    "787.de0a89a4.chunk.js.map": "/kodak/static/js/787.de0a89a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b207ed.css",
+    "static/js/main.44ea07eb.js"
+  ]
+}
